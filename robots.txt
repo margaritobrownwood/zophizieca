@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quainoveir.british-football-academy.com/sitemap.xml
